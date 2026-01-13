@@ -1,4 +1,4 @@
-# 🔳 ChangeLinkToQRCODE
+#  ChangeLinkToQRCODE
 
 Project Python chuyển đổi Link / Text / WiFi / VCard thành mã QR Code  
 Hỗ trợ:
@@ -11,7 +11,7 @@ Hỗ trợ:
 
 ---
 
-## 🚀 Tính năng
+##  Tính năng
 
 - Tạo QR từ URL hoặc text
 - QR Wi-Fi (quét là kết nối)
@@ -23,7 +23,7 @@ Hỗ trợ:
 
 ---
 
-## 🛠️ Cài đặt
+##  Cài đặt
 
 ### 1. Clone repo
 ```bash
